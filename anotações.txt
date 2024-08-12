@@ -1,0 +1,39 @@
+// import {createServer} from 'node:http';
+
+// const server = createServer((request, response) => {
+//     response.write('Hello World');
+
+//     return response.end();
+// })
+
+// server.listen(3333); 
+
+// Porta na Web 3333    
+
+// Request serve para obter dados da requisição que o úsuario está fazendo
+// Response é o objeto que será utilizado pra devolver uma resposta de quem está chamando a API
+
+
+// GET : Utilizado quando queremos fazer uma operação de buscar alguma informação;
+// POST : Utilizado pra criação de algum registro;
+// PUT : Pra alteração;
+// DELETE : Caso queira deletar algo;
+// PATCH : Podemos usar pra alterar apenas uma informação específica de algum recurso;
+
+    // Set, Map == Set é como se fosse um Array porém é que ele não aceita valores duplicados, Map é como se fosse um Objeto
+
+// RoadMap
+
+Estudar
+
+// APIs Nativas
+    FileStystem, Stream, Cryto
+//TypeScript
+//Autenticação JWT
+//Principios SOLID
+//SQL(ORM - Prisma)
+//Docker
+//Framerworks(Fastify/NestJS)
+//Testes automatizado(Jest/Vitest)
+//Arquitetura de software
+//Deploy & CI/CD
